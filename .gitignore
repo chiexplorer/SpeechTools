@@ -1,0 +1,8 @@
+# local configure
+.idea/
+
+# local files
+output/
+
+# useless script
+test/
